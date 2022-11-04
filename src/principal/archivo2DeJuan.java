@@ -16,9 +16,6 @@ package principal;
     Versión: 1.0
     Licencia: GNU-GPL
 */
-public class main {
-    public static void main(String[] args) {
-        System.out.print("Hola mundo desde la rama master");
-        System.out.print("Hola mundo desde la ramaDeJuan");
-    }
+public class archivo2DeJuan {
+
 }
